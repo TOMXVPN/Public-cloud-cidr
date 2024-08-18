@@ -1,0 +1,691 @@
+# ---------- > Global Plaform
+# > DAZN
+nameserver /dazn-api.com/GLO
+nameserver /dazn.com/GLO
+nameserver /dazndn.com/GLO
+nameserver /indazn.com/GLO
+nameserver /d151l6v8er5bdm.cloudfront.net/GLO
+nameserver /d1sgwhnao7452x.cloudfront.net/GLO
+nameserver /dcalivedazn.akamaized.net/GLO
+nameserver /dcblivedazn.akamaized.net/GLO
+# > Hotstar
+nameserver /hotstar.com/GLO
+nameserver /hotstarext.com/GLO
+# > Disney+
+nameserver /disney.connections.edge.bamgrid.com/GLO
+nameserver /disney.api.edge.bamgrid.com/GLO
+nameserver /disney-plus.net/GLO
+nameserver /disneyplus.com/GLO
+nameserver /dssott.com/GLO
+nameserver /disneynow.com/GLO
+nameserver /disneystreaming.com/GLO
+nameserver /cdn.registerdisney.go.com/GLO
+# > Netflix
+nameserver /netflix.com/GLO
+nameserver /netflix.net/GLO
+nameserver /nflximg.com/GLO
+nameserver /nflximg.net/GLO
+nameserver /nflxvideo.net/GLO
+nameserver /nflxext.com/GLO
+nameserver /nflxso.net/GLO
+# > Amazon Prime Video:
+nameserver /d1v5ir2lpwr8os.cloudfront.net/GLO
+nameserver /d22qjgkvxw22r6.cloudfront.net/GLO
+nameserver /d25xi40x97liuc.cloudfront.net/GLO
+nameserver /d27xxe7juh1us6.cloudfront.net/GLO
+nameserver /dmqdd6hw24ucf.cloudfront.net/GLO
+nameserver /aiv-cdn.net/GLO
+nameserver /aiv-delivery.net/GLO
+nameserver /amazonvideo.com/GLO
+nameserver /atv-ext-eu.amazon.com/GLO
+nameserver /atv-ext-fe.amazon.com/GLO
+nameserver /atv-ext.amazon.com/GLO
+nameserver /atv-ps-eu.amazon.co.uk/GLO
+nameserver /atv-ps-eu.amazon.com/GLO
+nameserver /atv-ps-fe.amazon.co.jp/GLO
+nameserver /atv-ps-fe.amazon.com/GLO
+nameserver /atv-ps.amazon.com/GLO
+nameserver /primevideo.com/GLO
+nameserver /pv-cdn.net/GLO
+nameserver /video.a2z.com/GLO
+# > TVBAnywhere+
+nameserver /tvbanywhere.com/GLO
+nameserver /tvbanywhere.com.sg/GLO
+nameserver /tvb.com/GLO
+nameserver /tvb.com.au/GLO
+nameserver /tvbc.com.cn/GLO
+nameserver /tvbeventpower.com.hk/GLO
+nameserver /tvbusa.com/GLO
+nameserver /tvbweekly.com/GLO
+nameserver /tvmedia.net.au/GLO
+# > Viu.com
+nameserver /cognito-identity.us-east-1.amazonaws.com/GLO
+nameserver /d1k2us671qcoau.cloudfront.net/GLO
+nameserver /d2anahhhmp1ffz.cloudfront.net/GLO
+nameserver /dfp6rglgjqszk.cloudfront.net/GLO
+nameserver /d3o7oi00quuwqu.cloudfront.net/GLO
+nameserver /mobileanalytics.us-east-1.amazonaws.com/GLO
+nameserver /viu.com/GLO
+# > Steam Store
+nameserver /steampowered.com/GLO
+# > Youtube
+nameserver /youtube.com/GLO
+nameserver /youtubei.googleapis.com/GLO
+# > Google Search
+nameserver /google.com/GLO
+# > Instagram
+nameserver /instagram.com/GLO
+# > iQiyi
+nameserver /71.am/GLO
+nameserver /iq.com/GLO
+nameserver /iqiyi.com/GLO
+nameserver /iqiyipic.com/GLO
+nameserver /pps.tv/GLO
+nameserver /ppsimg.com/GLO
+nameserver /qiyi.com/GLO
+nameserver /qiyipic.com/GLO
+nameserver /qy.net/GLO
+# > Tiktok
+nameserver /byteoversea.com/GLO
+nameserver /ibytedtos.com/GLO
+nameserver /ipstatp.com/GLO
+nameserver /muscdn.com/GLO
+nameserver /musical.ly/GLO
+nameserver /tiktok.com/GLO
+nameserver /tik-tokapi.com/GLO
+nameserver /tiktokcdn.com/GLO
+nameserver /tiktokv.com/GLO
+# ---------- > Taiwan Media
+# > KKTV
+nameserver /kfs.io/TW
+nameserver /kktv-theater.kk.stream/TW
+nameserver /kkbox.com/TW
+nameserver /kkbox.com.tw/TW
+nameserver /kktv.com.tw/TW
+nameserver /kktv.me/TW
+# > LiTV
+nameserver /litv.tv/TW
+nameserver /litvfreemobile-hichannel.cdn.hinet.net/TW
+# > MyVideo
+nameserver /cdn.plyr.io/TW
+nameserver /myvideo.net.tw/TW
+# > 4GTV
+nameserver /4gtv.tv/TW
+nameserver /4gtvfreepc-cds.cdn.hinet.net/TW
+nameserver /4gtvfreepcvod-cds.cdn.hinet.net/TW
+nameserver /4gtvpc-cds.cdn.hinet.net/TW
+nameserver /4gtvpcvod-cds.cdn.hinet.net/TW
+# > LineTV.TW
+nameserver /d3c7rimkq79yfu.cloudfront.net/TW
+nameserver /linetv.tw/TW
+# > Hami Video
+nameserver /cdn.hinet.net/TW
+nameserver /hamivideo.hinet.net/TW
+nameserver /scc.ott.hinet.net/TW
+# > CatchPlay+
+nameserver /catchplay.com/TW
+nameserver /d2ivmxp5z2ww0n.cloudfront.net/TW
+nameserver /ols-ww100-cp.akamaized.net/TW
+nameserver /tra-www000-cp.akamaized.net/TW
+# > HBO GO Asia
+nameserver /44wilhpljf.execute-api.ap-southeast-1.amazonaws.com/TW
+nameserver /bcbolthboa-a.akamaihd.net/TW
+nameserver /dai3fd1oh325y.cloudfront.net/TW
+nameserver /hboasia1-i.akamaihd.net/TW
+nameserver /hboasia2-i.akamaihd.net/TW
+nameserver /hboasia3-i.akamaihd.net/TW
+nameserver /hboasia4-i.akamaihd.net/TW
+nameserver /hboasia5-i.akamaihd.net/TW
+nameserver /hboasialive.akamaized.net/TW
+nameserver /hbogoprod-vod.akamaized.net/TW
+nameserver /hbolb.onwardsmg.com/TW
+nameserver /hbounify-prod.evergent.com/TW
+nameserver /hbogo.co.th/TW
+nameserver /hbogoasia.com/TW
+nameserver /hbogoasia.hk/TW
+nameserver /hbogoasia.id/TW
+nameserver /hbogoasia.ph/TW
+nameserver /hbogoasia.sg/TW
+nameserver /hbogoasia.tw/TW
+# > Bahamut Anime
+nameserver /bahamut.com.tw/TW
+nameserver /gamer.com.tw/TW
+nameserver /gamer-cds.cdn.hinet.net/TW
+nameserver /gamer2-cds.cdn.hinet.net/TW
+# > BiliBili
+nameserver /bilibili.com/TW
+# ---------- > Canada Media
+# > CBC Gem
+nameserver /cbc.ca/CA
+nameserver /cbchd1dynamicads-i.akamaihd.net/CA
+nameserver /cbclivedai5-i.akamaihd.net/CA
+nameserver /cbcnewshd-f.akamaihd.net/CA
+nameserver /cbcrcott-gem-key.akamaized.net/CA
+nameserver /cbcrcott-gem.akamaized.net/CA
+nameserver /go-mpulse.net/CA
+nameserver /theplatform.com/CA
+# > Crave TV
+nameserver /crave.ca/CA
+nameserver /go-mpulse.net/CA
+nameserver /9c9media.com/CA
+# ---------- > Japan Media
+# > NHK+
+nameserver /nhk.jp/JP
+# > DMM
+nameserver /dmm-extension.com/JP
+nameserver /dmm.co.jp/JP
+nameserver /dmm.com/JP
+nameserver /videomarket.jp/JP
+nameserver /p-smith.com/JP
+nameserver /vmdash-cenc.akamaized.net/JP
+nameserver /img.vm-movie.jp/JP
+# > Abema
+nameserver /abema.io/JP
+nameserver /abema.tv/JP
+nameserver /ds-linear-abematv.akamaized.net/JP
+nameserver /linear-abematv.akamaized.net/JP
+nameserver /ds-vod-abematv.akamaized.net/JP
+nameserver /vod-abematv.akamaized.net/JP
+nameserver /ameba.jp/JP
+nameserver /hayabusa.io/JP
+nameserver /bucketeer.jp/JP
+nameserver /abema.adx.promo/JP
+nameserver /hayabusa.media/JP
+nameserver /abema-tv.com/JP
+# > NicoNico
+nameserver /dmc.nico/JP
+nameserver /nicovideo.jp/JP
+nameserver /nimg.jp/JP
+# > Telasa
+nameserver /telasa.jp/JP
+nameserver /kddi-video.com/JP
+nameserver /videopass.jp/JP
+nameserver /d2lmsumy47c8as.cloudfront.net/JP
+# > Paravi
+nameserver /paravi.jp/JP
+# > U-NEXT
+nameserver /unext.jp/JP
+nameserver /nxtv.jp/JP
+# > Hulu Japan
+nameserver /happyon.jp/JP
+nameserver /hulu.jp/JP
+nameserver /prod.hjholdings.tv/JP
+nameserver /streaks.jp/JP
+nameserver /yb.uncn.jp/JP
+nameserver /hjholdings.jp/JP
+# > TVer
+nameserver /tver.jp/JP
+nameserver /edge.api.brightcove.com/JP
+# nameserver /players.brightcove.net/JP
+nameserver /gorin.jp/JP
+nameserver /screens-lab.jp/JP
+nameserver /tver.co.jp/JP
+nameserver /dogatch.jp/JP
+# > GYAO!
+nameserver /gyao.yahoo.co.jp/JP
+# > WOWOW
+nameserver /wowow.co.jp/JP
+# > Videomarket
+nameserver /videomarket.jp/JP
+# > D Anime Store
+nameserver /animestore.docomo.ne.jp/JP
+# > Fuji TV
+nameserver /fujitv.co.jp/JP
+nameserver /stream.ne.jp/JP
+# > Radiko
+nameserver /radiko.jp/JP
+nameserver /radionikkei.jp/JP
+nameserver /smartstream.ne.jp/JP
+# > Karaoke@DAM
+nameserver /clubdam.com/JP
+# > J:com On Demand
+nameserver /id.zaq.ne.jp/JP
+# > AnimeFesta
+nameserver /api-animefesta.iowl.jp/JP
+# > Lemino
+nameserver /if.lemino.docomo.ne.jp/JP
+# > Rakuten TV JP
+nameserver /rakuten.co.jp/JP
+# > Games
+nameserver /cygames.jp/JP
+nameserver /konosubafd.jp/JP
+nameserver /colorfulpalette.org/JP
+nameserver /worldflipper.jp/JP
+nameserver /jujutsuphanpara.jp/JP
+# > Mora
+nameserver /mora.jp/JP
+# > Music.jp
+nameserver /music.jp/JP
+nameserver /music-book.jp/JP
+# > Reads 
+nameserver /data-cloudauthoring.magazine.rakuten.co.jp/JP
+# ---------- > Oceania Media
+# > NBA TV !Against US!
+nameserver /nba.com/AU
+nameserver /neulion-a.akamaihd.net/AU
+nameserver /nlnbamdnyc-a.akamaihd.net/AU
+nameserver /sdk.iad-03.braze.com/AU
+nameserver /nbaprop.sc.omtrdc.net/AU
+nameserver /nlnbaqos.neulion.com/AU
+nameserver /watchnba.cdnfastly.endeavorstreaming.net/AU
+nameserver /nbaapi.neulion.com/AU
+nameserver /nba-api-cdn.opin.media/AU
+nameserver /neulionqos-a.akamaihd.net/AU
+nameserver /neulion.com/AU
+nameserver /nbaprop.tt.omtrdc.net/AU
+nameserver /lion-nba-msl.akamaized.net/AU
+nameserver /nbanlds19vod.akamaized.net/AU
+# > Acorn TV !Against US!
+nameserver /edge.api.brightcove.com/AU
+nameserver /api.rlje.net/AU
+nameserver /boltdns.net/AU
+nameserver /acorn.tv/AU
+# > SHOWTIME !Against US!
+nameserver /sho.com/AU
+nameserver /showtime.com/AU
+nameserver /showtimeanytime.com/AU
+# > BritBox !Against US/EU!
+nameserver /vod-dash-ntham-comm-live.akamaized.net/AU
+nameserver /vod-dash-ntham-comm.live.cf.md.bbci.co.uk/AU
+nameserver /vod-hls-ntham-comm-live.akamaized.net/AU
+nameserver /vod-hls-ntham-comm.live.cf.md.bbci.co.uk/AU
+nameserver /britbox.com/AU
+nameserver /d2z3p34itxwaj7.cloudfront.net/AU
+# > Funimation !Against US/EU!
+nameserver /funimation.com/AU
+nameserver /funimationsvc.com/AU
+# > Paramount+ !Against US!
+nameserver /paramountplus.com/AU
+nameserver /cbsi.live.ott.irdeto.com/AU
+nameserver /cbsplaylistserver.aws.syncbak.com/AU
+nameserver /cbsservice.aws.syncbak.com/AU
+nameserver /link.theplatform.com/AU
+nameserver /cbsaavideo.com/AU
+nameserver /cbsi.com/AU
+nameserver /cbsivideo.com/AU
+nameserver /pplusstatic.com/AU
+# > AU:Stan
+nameserver /stan.com.au/AU
+nameserver /stan.video/AU
+nameserver /streamcoimg-a.akamaihd.net/AU
+nameserver /live01-stan.akamaized.net/AU
+nameserver /live02-stan.akamaized.net/AU
+# > AU:Binge/Kayo Sports
+nameserver /streamotion.com.au/AU
+# > AU:Docplay
+nameserver /docplay.com/AU
+nameserver /0c86e2d1-madman-com-au.akamaized.net/AU
+nameserver /ff1be285-madman-com-au.akamaized.net/AU
+nameserver /5a929471-madman-com-au.akamaized.net/AU
+nameserver /879ed873-madman-com-au.akamaized.net/AU
+# > AU:7plus
+nameserver /7plus.com.au/AU
+nameserver /npc-live-sevennetwork.akamaized.net/AU
+nameserver /7plus-sevennetwork.akamaized.net/AU
+nameserver /seven.demdex.net/AU
+nameserver /cdn.7livecloud.io/AU
+# > AU:9 now
+nameserver /nine.com.au/AU
+nameserver /9now.com.au/AU
+nameserver /edge.api.brightcove.com/AU
+nameserver /p-9now.akamaized.net/AU
+nameserver /9now-livestreams.akamaized.net/AU
+nameserver /9cdn.net/AU
+nameserver /9nation.com.au/AU
+nameserver /9news.com.au/AU
+nameserver /9now.com.au/AU
+nameserver /freeviewplus.net.au/AU
+nameserver /mi9.com.au/AU
+nameserver /mi9cdn.com/AU
+nameserver /nine.com.au/AU
+nameserver /nineentertainment.com.au/AU
+nameserver /nineentertainmentco.com.au/AU
+nameserver /ninemediaroom.com.au/AU
+nameserver /ninemsn.com.au/AU
+nameserver /static9.net.au/AU
+nameserver /yourtv.com.au/AU
+# > AU:10 play
+nameserver /10play.com.au/AU
+nameserver /global.ssl.fastly.net/AU
+nameserver /airspace-cdn.cbsviedo.com/AU
+nameserver /net10-livestream-keys.play.cbsi.video/AU
+nameserver /net10-livestream.play.cbsi.video/AU
+nameserver /d25m2gzplgnf0.cloudfront.net/AU
+# > AU:ABC iView
+nameserver /iview.abc.net.au/AU
+nameserver /abc-iview-mediapackagestreams-2.akamaized.net/AU
+# > AU:Optus
+nameserver /optus.com.au/AU
+nameserver /optusdigital.com/AU
+nameserver /optusnet.com.au/AU
+nameserver /optussport.tv/AU
+nameserver /optusvideo.tv/AU
+nameserver /tls1.yospace.com/AU
+nameserver /bln1.yospace.com/AU
+nameserver /d3rj5p7u4c4icq.cloudfront.net/AU
+nameserver /mgd0ee5iankkv3gidl14rm7c0.litix.io/AU
+nameserver /93e30b04-drm-widevine-licensing.axprod.net/AU
+# > AU:SBS on Demand
+nameserver /sbsod.com/AU
+nameserver /sbs.com.au/AU
+nameserver /videocdn-sbs.akamaized.net/AU
+nameserver /sbsvoddai-vh.akamaihd.net/AU
+nameserver /sbsvodns-vh.akamaihd.net/AU
+nameserver /sbs-live-dai.akamaized.net/AU
+nameserver /sbs-live.akamaized.net/AU
+nameserver /sbs-live-dai.akamaized.net/AU
+# > NZ:Neon TV
+nameserver /neontv.co.nz/AU
+# > NZ:SkyGO NZ
+nameserver /sky.co.nz/AU
+nameserver /prod-skyonelive.akamaized.net/AU
+nameserver /skysportnow.co.nz/AU
+nameserver /imggaming.com/AU
+nameserver /pndsn.com/AU
+# > NZ:ThreeNow
+nameserver /fullscreen.nz/AU
+# > NZ:Maori TV
+#
+# ---------- > Europe Media
+# > EU:Rakuten TV
+nameserver /rakuten.tv/EU
+# > EU:Funimation !Against US/AU!
+nameserver /funimation.com/EU
+# > EU:SkyShowTime
+nameserver /skyshowtimeuk.data.adobedc.net/EU
+nameserver /skyshowtime.com/EU
+nameserver /cssott.com/EU
+nameserver /4ac1dd56e493354be504f063e4ae3440a13c6776.cws.conviva.com/EU
+# > EU:HBO Max
+nameserver /max.com/EU
+nameserver /cinemax.com/EU
+nameserver /forthethrone.com/EU
+nameserver /hbo.com/EU
+nameserver /hbomax.com/EU
+nameserver /hbomaxcdn.com/EU
+nameserver /maxgo.com/EU
+# > EuroSport
+nameserver /europe-fastly-mediashield-live-prod.cdn.h264.io/EU
+nameserver /akamai.prod-live.h264.io/EU
+nameserver /eurosport-dlvr-ott.akamaized.net/EU
+nameserver /eu3-prod-images.disco-api.com/EU
+nameserver /eu3-prod.disco-api.com/EU
+nameserver /eurosportplayer.com/EU
+nameserver /eurosport.com/EU
+nameserver /eurosport.fr/EU
+nameserver /eurosport.es/EU
+nameserver /eurosport.ro/EU
+nameserver /eurosport.io/EU
+nameserver /eurosport.ru/EU
+nameserver /media-shield.live.eurosport.map.fastly.net/EU
+nameserver /eurosport-dlvr-ott-vod.akamaized.net/EU
+# > ViaPlay
+nameserver /i-viaplay-com.akamaized.net/EU
+nameserver /viaplay.com/EU
+nameserver /viaplay.pl/EU
+nameserver /mtg-api.com/EU
+# > GB:Sky GO /EUSkyGONZ/EU
+nameserver /sky.com/EU
+# > GB:BritBox !Against US/AU!
+nameserver /vod-dash-ntham-comm-live.akamaized.net/EU
+nameserver /vod-dash-ntham-comm.live.cf.md.bbci.co.uk/EU
+nameserver /vod-hls-ntham-comm-live.akamaized.net/EU
+nameserver /vod-hls-ntham-comm.live.cf.md.bbci.co.uk/EU
+nameserver /britbox.com/EU
+nameserver /d2z3p34itxwaj7.cloudfront.net/EU
+# > GB:ITV Hub
+nameserver /itvpnpmobile-a.akamaihd.net/EU
+nameserver /itv.com/EU
+nameserver /itvstatic.com/EU
+# > GB:Channel 4 **
+nameserver /channel4.com/EU
+# > GB:Channel 5 **
+nameserver /channel5.com/EU
+# > GB:BBC
+nameserver /aod-dash-uk-live.akamaized.net/EU
+nameserver /aod-hls-uk-live.akamaized.net/EU
+nameserver /as-dash-uk-live.akamaized.net/EU
+nameserver /as-hls-uk-live.akamaized.net/EU
+nameserver /vod-dash-uk-live.akamaized.net/EU
+nameserver /vod-dash-ww-live.akamaized.net/EU
+nameserver /vod-hls-uk-live.akamaized.net/EU
+nameserver /vod-sub-uk-live.akamaized.net/EU
+nameserver /vod-thumb-uk-live.akamaized.net/EU
+nameserver /vod-thumb-ww-live.akamaized.net/EU
+nameserver /vs-cmaf-push-uk-live.akamaized.net/EU
+nameserver /bbc/EU
+nameserver /bbc.co/EU
+nameserver /bbc.co.uk/EU
+nameserver /bbc.com/EU
+nameserver /bbc.in/EU
+nameserver /bbc.net.uk/EU
+nameserver /bbcchinese.com/EU
+nameserver /bbcfmt.hs.llnwd.net/EU
+nameserver /bbcfmt.s.llnwi.net/EU
+nameserver /bbci.co/EU
+nameserver /bbci.co.uk/EU
+nameserver /bbcmedia.co.uk/EU
+nameserver /bbcpersian.com/EU
+nameserver /bbcverticals.com/EU
+nameserver /bidi.net.uk/EU
+# > GB:Discovery+ !Against AU!
+nameserver /content-ause1-ur-discovery1.uplynk.com/EU
+nameserver /disco-api.com/EU
+nameserver /discoveryplus.com/EU
+nameserver /x-default-stgec.uplynk.com/EU
+nameserver /discovery.com/EU
+nameserver /discoveryplus.co.uk/EU
+nameserver /getblueshift.com/EU
+nameserver /litix.io/EU
+nameserver /mobile-collector.newrelic.com/EU
+nameserver /discovery.uplynk.com/EU
+# > FR:Salto
+nameserver /salto.fr/EU
+# > FR:Canal+
+nameserver /canalplus.com/EU
+# > FR:Molotov
+nameserver /molotov.tv/EU
+# > FR:France.tv
+nameserver /ftven.fr/EU
+# > DE:Joyn
+nameserver /joyn.de/EU
+# > DE:Sky
+nameserver /sky.de/EU
+nameserver /edge.api.brightcove.com/EU
+# > DE:ZDF
+nameserver /zdf.de/EU
+# > NL:videoland
+nameserver /videoland.com/EU
+# > NL:NPO
+nameserver /npo.nl/EU
+# > RU:Amediateka
+nameserver /amediateka.ru/EU
+# > UA:MEGOGO
+nameserver /megogo.net/EU
+nameserver /vcdn.biz/EU
+# > CH:Sky
+nameserver /sky.ch/EU
+nameserver /zahs.tv/EU
+# > TR:digiturkplay
+nameserver /digiturkplay.com/EU
+nameserver /dt-int-gurme-hls.mncdn.com/EU
+nameserver /dt-live-int.akamaized.net/EU
+# ---------- > Hong Kong Media
+# > Now E 
+nameserver /nowe.com/HK
+nameserver /nowestatic.com/HK
+# > Now TV
+nameserver /now.com/HK
+# > Viu.TV
+#include Viu.com
+nameserver /viu.now.com/HK
+nameserver /viu.tv/HK
+# > MyTVSuper
+nameserver /mytvsuper.com/HK
+nameserver /mytvsuperlimited.hb.omtrdc.net/HK
+nameserver /mytvsuperlimited.sc.omtrdc.net/HK
+nameserver /tvb.com/HK
+# > HBO GO Asia
+nameserver /44wilhpljf.execute-api.ap-southeast-1.amazonaws.com/HK
+nameserver /bcbolthboa-a.akamaihd.net/HK
+nameserver /dai3fd1oh325y.cloudfront.net/HK
+nameserver /hboasia1-i.akamaihd.net/HK
+nameserver /hboasia2-i.akamaihd.net/HK
+nameserver /hboasia3-i.akamaihd.net/HK
+nameserver /hboasia4-i.akamaihd.net/HK
+nameserver /hboasia5-i.akamaihd.net/HK
+nameserver /hboasialive.akamaized.net/HK
+nameserver /hbogoprod-vod.akamaized.net/HK
+nameserver /hbolb.onwardsmg.com/HK
+nameserver /hbounify-prod.evergent.com/HK
+nameserver /hbogo.co.th/HK
+nameserver /hbogoasia.com/HK
+nameserver /hbogoasia.hk/HK
+nameserver /hbogoasia.id/HK
+nameserver /hbogoasia.ph/HK
+nameserver /hbogoasia.sg/HK
+nameserver /hbogoasia.tw/HK
+# > HOY TV
+nameserver /hoy.tv/HK
+# ---------- > South America Media
+# Star+
+nameserver /starplus.com/US
+nameserver /starott.com/US
+nameserver /star.api.edge.bamgrid.com/US
+nameserver /star.connections.edge.bamgrid.com/US
+nameserver /star.content.edge.bamgrid.com/US
+nameserver /star.playback.edge.bamgrid.com/US
+# > HBO 
+nameserver /cinemax.com/US
+nameserver /forthethrone.com/US
+nameserver /hbo.com/US
+nameserver /hbogo.com/US
+nameserver /hbomax.com/US
+nameserver /hbomaxcdn.com/US
+nameserver /hbonow.com/US
+nameserver /maxgo.com/US
+# > DirecTV
+nameserver /directvgo.com/US
+# > Funimation !Against US/EU/AU!
+nameserver /funimation.com/US
+
+# ---------- > Indian Media
+nameserver /discoveryplus.in/US
+
+# ---------- > Korean Media
+# > Wavve
+nameserver /wavve.com/US
+nameserver /pooq.co.kr/US
+# > Tving
+nameserver /tving.com/US
+# > Coupang Play
+nameserver /coupangplay.com/US
+# > Naver TV
+nameserver /naver.com/US
+nameserver /navercorp.com/US
+nameserver /pstatic.net/US
+nameserver /smartmediarep.com/US
+# > Afreeca TV
+nameserver /afreecatv.com/US
+# > KBS Domestic
+nameserver /kbs.co.kr/US
+# > jtbc
+nameserver /jtbc.co.kr/US
+
+# ---------- > ? media
+# > Setanta Sports
+nameserver /setantasports.com/US
+nameserver /imggaming.com/US
+nameserver /diceplatform.com/US
+nameserver /dicelaboratory.com/US
+nameserver /pndsn.com/US
+nameserver /imggaming.s3-eu-west-1.amazonaws.com/US
+nameserver /ux1kpaebv0.execute-api.eu-west-1.amazonaws.com/US
+nameserver /1ok961aaca.execute-api.eu-west-1.amazonaws.com/US
+# ---------- > SouthEastAsia media
+# > HBO GO Asia
+nameserver /44wilhpljf.execute-api.ap-southeast-1.amazonaws.com/SG
+nameserver /bcbolthboa-a.akamaihd.net/SG
+nameserver /dai3fd1oh325y.cloudfront.net/SG
+nameserver /hboasia1-i.akamaihd.net/SG
+nameserver /hboasia2-i.akamaihd.net/SG
+nameserver /hboasia3-i.akamaihd.net/SG
+nameserver /hboasia4-i.akamaihd.net/SG
+nameserver /hboasia5-i.akamaihd.net/SG
+nameserver /hboasialive.akamaized.net/SG
+nameserver /hbogoprod-vod.akamaized.net/SG
+nameserver /hbolb.onwardsmg.com/SG
+nameserver /hbounify-prod.evergent.com/SG
+nameserver /hbogo.co.th/SG
+nameserver /hbogoasia.com/SG
+nameserver /hbogoasia.hk/SG
+nameserver /hbogoasia.id/SG
+nameserver /hbogoasia.ph/SG
+nameserver /hbogoasia.sg/SG
+nameserver /hbogoasia.tw/SG
+# > B-Global
+nameserver /bilibili.tv/SG
+# > SG:meWATCH
+nameserver /mewatch.sg/SG
+# > SG:StarHub
+nameserver /starhubgo.com/SG
+nameserver /failoverstarhub.akamaized.net/SG
+nameserver /scvm1sc0-ssm.anycast.nagra.com/SG
+nameserver /starhubtvplus.com/SG
+# > CatchPlay+
+nameserver /catchplay.com/SG
+nameserver /d2ivmxp5z2ww0n.cloudfront.net/SG
+nameserver /ols-ww100-cp.akamaized.net/SG
+nameserver /tra-www000-cp.akamaized.net/SG
+# > TH:TrueID 
+nameserver /trueid.net/SG
+# > TH:AIS Play
+nameserver /aisplay.ais.co.th/SG
+nameserver /ais-vidnt.com/SG
+# > ID:Vidio
+nameserver /geo-id-media-001-vidio-com.akamaized.net/SG
+# > VN:MYTV
+nameserver /mytv.vn/SG
+# > VN:Clip TV
+nameserver /cliptv.vn/SG
+# > VN:Galaxy Play
+nameserver /glxplay.io/SG
+# > VN:K+
+nameserver /solocoo.tv/SG
+# > MY:sooka
+nameserver /sooka.my/SG
+nameserver /kaltura.com/SG
+nameserver /1fad96d91f4f519fc79753650a57dad992c44af2.cws.conviva.com/SG
+# > IN:MXPlayer
+nameserver /mxplayer.in/SG
+# > IN:Tata Play
+nameserver /tataplay.com/SG
+# > IN:Zee5
+nameserver /zee5.com/SG
+# > IN:Jio Cinema
+nameserver /content-jiovoot.voot.com/SG
+# > UAE:shahid
+nameserver /mbc.net/SG
+nameserver /npaw.com/SG
+nameserver /shahid.net/SG
+# ---------- > AI Platform
+# > Openai
+nameserver /openai.com/AI
+nameserver /chatgpt.com/AI
+nameserver /oaistatic.com/AI
+nameserver /oaiusercontent.com/AI
+# > ExHantai/E-hentai
+nameserver /exhentai.org/AI
+nameserver /e-hentai.org/AI
+# > Claude 2
+nameserver /anthropic.com/AI
+nameserver /claude.ai/AI
+# > Google Gemini
+nameserver /gemini.google.com/AI
+nameserver /proactivebackend-pa.googleapis.com/AI
+# > Google AiStudio
+nameserver /aistudio.google.com/AI
+nameserver /alkalimakersuite-pa.clients6.google.com/AI
+nameserver /generativelanguage.googleapis.com/AI
+# > Microsoft Copilot For Image Generates
+nameserver /copilot.microsoft.com/AI
