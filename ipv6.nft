@@ -1,7 +1,4 @@
-set Allow6 {
-    typeof ip6 daddr
-    flags interval
-    elements = {
+define Allow6 = {
 2603:1030:b06::/48,
 2602:2c3:810::/44,
 2603:1046:1500:20::/64,

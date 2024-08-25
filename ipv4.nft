@@ -1,7 +1,4 @@
-set Allow4 {
-    typeof ip daddr
-    flags interval
-    elements = {
+define Allow4 = {
 182.240.160.0/22,
 121.9.208.0/21,
 40.120.140.192/28,
